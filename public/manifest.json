@@ -1,0 +1,9 @@
+{
+  "name": "Pedrinho Lemes",
+  "short_name": "Pedrinho Lemes",
+  "theme_color": "#050009",
+  "background_color": "#050009",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}

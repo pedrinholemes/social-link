@@ -1,0 +1,21 @@
+{
+  "hosting": {
+    "site": "pedrinholemes",
+    "public": "out",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      },
+      {
+        "source": "/favicon.io",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
